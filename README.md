@@ -32,7 +32,7 @@ A hands-on cybersecurity project demonstrating network reconnaissance, service e
 ## Command
 
 ```bash
-nmap -sn 192.168.0.186
+nmap -sn 192.168.0.117/24
 ```
 
 ## Purpose
